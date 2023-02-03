@@ -733,3 +733,6 @@ uninstall:   FORCE
 
 FORCE:
 
+CONFIG += qt
+
+QT += gui
